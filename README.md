@@ -1,4 +1,4 @@
-# eLusive - Web Technology's Course (Bachelor's Degree in CS)
+# eLusive - Web Technology's Course (Bachelor's Degree in CS) - A.Y. 2022/2023
 
 DISCLAIMER: the website is in Italian language.
 
